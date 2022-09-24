@@ -5,4 +5,4 @@ EMPATHY MAP LINK : https://app.mural.co/invitation/mural/panimalarinstituteoftec
 
 WEEK 1 ASSESMENT : https://colab.research.google.com/drive/1UiFmt0W5qu2jcRQ7Pt29X9sBbC3BUqHc?usp=sharing
 
-WEEK 2 ASSESMENT : http://localhost:8888/notebooks/WEEK%202_ASSESSMENT.ipynb
+WEEK 2 ASSESMENT : 
