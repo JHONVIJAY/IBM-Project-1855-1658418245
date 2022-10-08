@@ -3,6 +3,12 @@ Real-Time Communication System Powered by AI for Specially Abled
 
 ![images](https://user-images.githubusercontent.com/92732819/194718998-09134c31-ca21-426b-bb06-29c0d280dbc6.png)
 
+![images](https://github.com/Sanjaymavi/demo_repo/blob/main/images/learn-sign-language-on-line.jpg)
+
+
+![images](https://github.com/Sanjaymavi/demo_repo/blob/main/images/download.jpg)
+
+
 1.]IDEATION PHASES LINKS
 
 Empathy Map Link : https://app.mural.co/invitation/mural/panimalarinstituteoftechnolo2256/1664036072656?sender=u38b9c45774d1e6b8469d8757&key=a2ed6e8b-5d40-4d7d-a15b-d78263ff307b
