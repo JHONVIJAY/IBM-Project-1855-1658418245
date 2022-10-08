@@ -1,12 +1,12 @@
 # IBM-Project-1855-1658418245
 Real-Time Communication System Powered by AI for Specially Abled
 
-![images](https://user-images.githubusercontent.com/92732819/194718998-09134c31-ca21-426b-bb06-29c0d280dbc6.png)
+![images](https://user-images.githubusercontent.com/92732819/194718998-09134c31-ca21-426b-bb06-29c0d280dbc6.png)    ![images](https://github.com/Sanjaymavi/demo_repo/blob/main/images/download.jpg)
+
 
 ![images](https://github.com/Sanjaymavi/demo_repo/blob/main/images/learn-sign-language-on-line.jpg)
 
 
-![images](https://github.com/Sanjaymavi/demo_repo/blob/main/images/download.jpg)
 
 
 1.]IDEATION PHASES LINKS
