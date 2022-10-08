@@ -3,11 +3,11 @@ Real-Time Communication System Powered by AI for Specially Abled
 
 ![images](https://user-images.githubusercontent.com/92732819/194718998-09134c31-ca21-426b-bb06-29c0d280dbc6.png)
 
-IDEATION PHASES
+IDEATION PHASES LINKS
 
 EMPATHY MAP LINK : https://app.mural.co/invitation/mural/panimalarinstituteoftechnolo2256/1664036072656?sender=u38b9c45774d1e6b8469d8757&key=a2ed6e8b-5d40-4d7d-a15b-d78263ff307b
 
-ASSESMENTS
+ASSESMENTS LINKS
 
 WEEK 1 ASSESMENT : https://colab.research.google.com/drive/1UiFmt0W5qu2jcRQ7Pt29X9sBbC3BUqHc?usp=sharing
 
