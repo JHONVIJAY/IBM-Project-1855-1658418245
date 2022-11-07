@@ -4,10 +4,10 @@ Real-Time Communication System Powered by AI for Specially Abled
 # TEAM 1D:PNT2022TMID26077
 
 # TEAM MEMBERS
-   >>SANJAI P
-   >>SANJAIRAJ M
-   >>RITHWIN PRASEED
-   >>RUPESH V.
+   SANJAI P -->TEAM LEAD.
+   SANJAIRAJ M.
+   RITHWIN PRASEED.
+   RUPESH V.
 
 ![images](https://user-images.githubusercontent.com/92732819/194718998-09134c31-ca21-426b-bb06-29c0d280dbc6.png)    ![images](https://github.com/Sanjaymavi/demo_repo/blob/main/images/download.jpg)![images](https://github.com/Sanjaymavi/demo_repo/blob/main/images/images.png)
 
