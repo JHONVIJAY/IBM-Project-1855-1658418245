@@ -1,12 +1,3 @@
-# IBM-Project-1855-1658418245
-Real-Time Communication System Powered by AI for Specially Abled
-
-# TEAM 1D:PNT2022TMID26077
-
-# TEAM LEAD: SANJAI P
-
-# TEAM MEMBERS: SANJAIRAJ M , RUPESH V, RITHWIN PRASEED.
-
 #PROJECT DESCRIPTION :
 
 The project deals on building an application which helps the specially challenged people to communicate between them and the common people. Communication between a person with hearing/speech impairment and a normal person has always been a challenging task. This application tries to reduce the barrier of communication by developing an assistive application for specially challenged people.
